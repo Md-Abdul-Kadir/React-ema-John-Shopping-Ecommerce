@@ -1,0 +1,25 @@
+
+.logo{
+    height:110px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+
+}
+.header nav{
+    background-color: black;
+    line-height: 50px;
+    
+}
+.header a{
+    color:white;
+    font-size: 18px;
+    font-weight: 400;
+    padding-top:20px;
+    padding-bottom:20px;
+    padding: 13px 30px;
+    text-decoration: none;
+}
+.header a:hover{
+    background-color: gainsboro;
+    color:black;
+}
