@@ -1,4 +1,4 @@
-# Projecst Name is : Ema-jhon-react
+# Projecst Name is : Ema-John-react
 
-## [Ema-Jhon-React](https://ema-jhoon-app.netlify.app/).
+## [Ema-John-React](https://ema-jhoon-app.netlify.app/).
 
